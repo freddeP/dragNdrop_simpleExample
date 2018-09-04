@@ -1,0 +1,23 @@
+#main1,#main2{
+display:flex;
+
+}
+
+.boxP, .dropSurface{
+    width:200px;
+    height:130px;
+    background: transparent;
+    cursor:pointer;
+    border:1px solid blue;
+}
+
+.box{
+    background:blue;
+    width:100px;
+    height:100px;
+
+}
+
+.empty{
+    background: white;
+}
